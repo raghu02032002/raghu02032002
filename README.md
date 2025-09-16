@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<h1>💫 About Me:</h1><br><hr>
+<h1>💫 About Me:</h1>
 👋 Hi, I’m Raghu V – a passionate Full Stack Developer<br>💻 Skilled in Python, Java, JavaScript, C/C++, HTML5, CSS3, Bootstrap, Django, Spring Boot<br>🗄️ Database lover: MySQL | SQL Server | MongoDB | SQLite<br>⚙️ Tools & Version Control: Git | Azure DevOps<br>🌱 I love exploring new technologies and integrating them into real-world solutions<br>📂 Check out my projects: Cold Storage Management System & Travel Guide Android App
 
 
